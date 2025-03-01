@@ -2,6 +2,16 @@
 
 Este proyecto utiliza **Next.js**, **OpenAI API** y **PostgreSQL con pgvector** para generar y almacenar embeddings de texto.
 
+#### UI result:
+<kbd>
+  <img width="1728" alt="Screenshot 2025-03-01 at 11 40 47 AM" src="https://github.com/user-attachments/assets/ab245fcd-e2da-4522-a3b8-1f2978bb498c" />
+</kbd>
+
+#### DBeaver result:
+<kbd>
+  <img width="1408" alt="Screenshot 2025-03-01 at 11 41 31 AM" src="https://github.com/user-attachments/assets/c459eead-0b5c-4400-b04f-9bfefaf4e167" />
+</kbd>
+
 ### 📌 Requisitos
 
 Antes de comenzar, asegúrate de tener lo siguiente:
